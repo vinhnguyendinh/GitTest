@@ -18,6 +18,8 @@ struct ContentView: View {
             }) {
                 Text("Click here")
             }
+
+            Text("Demo")
         }
     }
 }
