@@ -20,6 +20,7 @@ struct ContentView: View {
             }
             
             Text("1")
+            Text("2")
         }
     }
 }
